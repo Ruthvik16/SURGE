@@ -6,3 +6,6 @@
   - **encoding-2 notebook**: Contains the final implementation of the 2-qubit toy experiment.
   - **quantum_test file**: Includes a small experimentation of Qiskit simulations.
   - **quantum file**: Contains a relatively complex circuit using multiple gates simulated with Qiskit.
+
+- **Z3SOlver**: Contains code of above gates using the SMT solver
+  
